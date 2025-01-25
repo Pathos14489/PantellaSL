@@ -1,0 +1,9 @@
+{
+    "name": "SexLab Support",
+    "version": "0.0.1",
+    "description": "Adds game events and behaviors related to SexLab.",
+    "author": "Pathos",
+    "project_url": "https://github.com/Pathos14489/Pantella",
+    "enabled": true,
+    "dependencies": []
+}
