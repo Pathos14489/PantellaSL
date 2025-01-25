@@ -6,4 +6,4 @@ Pantella SexLab Support is a mod that adds support to Pantella for SexLab. It op
 
 ## Installation
 
-Go to the (latest release)[https://github.com/Pathos14489/PantellaSL/releases/tag/0.0.1] and follow the instructions there.
+Go to the [latest release](https://github.com/Pathos14489/PantellaSL/releases/tag/0.0.1) and follow the instructions there.
